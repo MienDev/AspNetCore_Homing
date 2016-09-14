@@ -24,7 +24,7 @@
 | [GitHub](https://github.com/blowdart/AspNetAuthorizationWorkshop)
 | A workshop for moving through the various new pieces in ASP.NET v5 Authorization
 
-- [] **IdentityServer**
+- [ ] **IdentityServer**
 | [GitHub](https://github.com/IdentityServer)
 | [identityserver4](https://github.com/IdentityServer/IdentityServer4)
 | [identityserver4 Docs](https://identityserver4.readthedocs.io/)
